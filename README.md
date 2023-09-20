@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Akhil kumar and I'm a Software Engineer, from <img width="48" height="48" src="https://img.icons8.com/color/48/india-circular.png" alt="india-circular"/><b> Delhi, India </b>. </p>
+<p align="left">My name is Akhil kumar and I'm a Software Engineer, from <img width="20" height="20" src="https://img.icons8.com/color/48/india-circular.png" alt="india-circular"/><b> Delhi, India </b>. </p>
 
 ###
 
