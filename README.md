@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Akhil kumar and I'm a Software Engineer, from <img width="48" height="48" src="https://img.icons8.com/emoji/48/india-emoji.png" alt="india-emoji"/> <b> Delhi, India </b>. </p>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning React.Js ![icons8-react-js](https://github.com/AKHIL069/AKHIL069/assets/54185017/daaa92fd-06af-4f09-973e-b6d1d49b3d83)
+<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
