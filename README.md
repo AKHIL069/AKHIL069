@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 ###
 
-<p align="left">My name is Akhil and I'm a Software Engineer, from</p>
+<p align="left">My name is Akhil and I'm a Software Engineer, from <img width="15" height="15" src="https://img.icons8.com/color/48/india-circular.png" alt="india-circular"/><b> Delhi, India </b> </p>
 
 ###
 
