@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning React.Js <img width="16" height="16" src="https://img.icons8.com/officel/16/react.png" alt="react"/> <br>🎯 Goals: live in a cold place ❄ and speak english 🚀<br>🎲 Fun fact: ...</p>
 
 ###
 
