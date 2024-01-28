@@ -6,13 +6,27 @@
 
 ###
 
-<h2 align="left">About me</h2>
+## 👨🏻‍💻 About Me:
+
+###
+-   ✨ Creating bugs since **2019**
+-   🌱 I’m currently learning **React.JS**
+-   👨‍💻 All of my projects are available at [https://github.com/AKHIL069]https://github.com/AKHIL069
+-   💬 Ask me about **Python, Django, Web Development, AWS, RESTful API, FastAPI, MongoDB, Postgre SQL, Numpy, Pandas**
+-   📫 How to reach me **akhilrajput9868@gmail.com**
+
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning React.Js <img width="16" height="16" src="https://img.icons8.com/officel/16/react.png" alt="react"/> <br>🎯 Goals: live in a cold place ❄ and speak english 🚀<br>🎲 Fun fact: ...</p>
+## ❤️ Let's get connected:
 
-###
+
+<p>
+<!--   <a href="https://itsjinendrajain.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/itsjinendrajain-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>  -->
+<!--   <a href="https://twitter.com/itsjinendrajain" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>  -->
+  <a href="https://www.linkedin.com/in/akhil-kumar-27372a15b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<a href="https://www.instagram.com/ak.rajput.69/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
 
 ## 🛠️ Technologies and Tools I use:
 
