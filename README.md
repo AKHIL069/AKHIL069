@@ -11,7 +11,7 @@
 ###
 -   ✨ Creating bugs since **2019**
 -   🌱 I’m currently learning **React.JS**
--   👨‍💻 All of my projects are available at [https://github.com/AKHIL069]
+-   👨‍💻 All of my projects are available at https://github.com/AKHIL069
 -   💬 Ask me about **Python, Django, Web Development, AWS, RESTful API, FastAPI, MongoDB, Postgre SQL, Numpy, Pandas**
 -   📫 How to reach me **akhilrajput9868@gmail.com**
 
