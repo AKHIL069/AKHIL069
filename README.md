@@ -39,6 +39,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/330413/fastapi.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/376356/aws.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
